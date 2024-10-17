@@ -1,0 +1,11 @@
+Employee_ID,Age,Income,Years_of_Service,Financial_Obligations,Withdrawals_Past_Year,Feedback
+1,25,30000,1,1000,1,I like the flexibility of the system.
+2,32,45000,5,2000,0,It's difficult to save enough for retirement.
+3,45,60000,10,3000,2,The system is too complex for me.
+4,29,32000,3,1500,0,I find it helpful for managing emergencies.
+5,38,55000,8,2500,1,More education on long-term savings would help.
+6,50,70000,20,4000,1,The withdrawal limits are too strict.
+7,23,28000,0,800,1,I'm concerned about my savings depleting.
+8,41,48000,15,2200,0,I appreciate having access when needed.
+9,36,52000,12,1800,0,The locked pot gives me peace of mind.
+10,48,75000,25,3500,2,I think the system is beneficial overall.
